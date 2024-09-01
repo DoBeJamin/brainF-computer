@@ -1,5 +1,5 @@
 # BrainF computer
-I assembled a computer in Logisim out of circuits that runs using the 8 commands used by the esoteric programming language BrainF. I made my computer to have these 8 commands as they are simple commands that ensure a Turing complete computer.
+I assembled a computer in Logisim out of circuits that run using the 8 commands used by the esoteric programming language BrainF. I made my computer have these 8 commands as they are simple commands that ensure a Turing complete computer.
 
 ## Specifications:
 
