@@ -15,4 +15,4 @@ Using the Python program you can enter normal brainF code as a string into machi
 
 machine code commands are 20 bit and are entered into Logisim in Hexidecimal.
 
-
+to be updated...
